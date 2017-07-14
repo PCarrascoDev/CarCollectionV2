@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922576955629",
+    "firebase_url": "https://carcollectionv2-62675.firebaseio.com",
+    "project_id": "carcollectionv2-62675",
+    "storage_bucket": "carcollectionv2-62675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922576955629:android:bff00dc69b0358dd",
+        "android_client_info": {
+          "package_name": "com.desafiolatam.carcollectionv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922576955629-dp52q854oof93nl8itnjv7bbju2s68p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desafiolatam.carcollectionv2",
+            "certificate_hash": "6d8ac6b22beade2e5f20c02f2595ee9bdd02f017"
+          }
+        },
+        {
+          "client_id": "922576955629-nc500doke7cfv3ruvc8s99ub2p44s2m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTIgPDIjgZFgGhhMArMnt9PPt-EsjgiYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922576955629-nc500doke7cfv3ruvc8s99ub2p44s2m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

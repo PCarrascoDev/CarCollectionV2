@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:focusable="true"
+    android:clickable="true"
+
+    android:background="?android:attr/selectableItemBackground">
+
+    <com.github.siyamed.shapeimageview.CircularImageView
+        android:id="@+id/imageTv"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        app:siBorderColor="@color/tw__light_gray"
+        android:src="@mipmap/ic_directions_car_black_48dp"/>
+    <TextView
+        android:id="@+id/titleTv"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+</LinearLayout>

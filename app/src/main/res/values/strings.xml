@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CarCollectionV2</string>
+    <string name="title_activity_main">CarCollectionV2</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="year">Year</string>
+    <string name="body">Body</string>
+    <string name="abs">ABS</string>
+
+    <string-array name="years">
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+    </string-array>
+
+    <string-array name="bodies">
+        <item>SUV</item>
+        <item>HB</item>
+        <item>SEDAN</item>
+        <item>COUPE</item>
+        <item>PICKUP</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+
+</resources>
